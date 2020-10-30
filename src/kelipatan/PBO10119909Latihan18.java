@@ -13,7 +13,7 @@ public class PBO10119909Latihan18 {
 
     public static void main(String[] args) {
         for (double i = 3.5; i <= 35; i += 3.5) {
-            System.out.println("i : "+i);
+            System.out.println(i);
         }
     }
 }
